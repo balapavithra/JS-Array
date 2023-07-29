@@ -1,15 +1,3 @@
-// Cretae an array of student objects like given below and Complete the Following function to change the array of objets
-//                         =>  var student = [
-//                              { id: 1, name: "KishoreGanesh k", total: 72, gender:"Male" } ,
-//                               { id: 2, name:"Sundharii L", total: 55, gender:"Male" },
-//                               ]
-//                               <!-- impment the following Function -->
-//                               1) findStudentByid(id) - return student object for the given id if found else null
-//                               2) findStudentsByGender(gender) - returns array of students for the given gender
-//                               3) addStudent( id, name, total, gender ) - add new student to list of students
-//                               4) deleteStudentByid(id) - delete the Student From the array using id
-//                               5) PrintStudents - Print The Lsit Of Students row Each row is in Format
-//                                ID 1. Name:KishoreGanesh K ( Male ), Total: 72
 let student = [
     { id: 1, name: "KishoreGanesh k", total: 72, gender: "Male" },
     { id: 2, name: "Sundharii L", total: 55, gender: "Female" },
